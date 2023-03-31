@@ -6,6 +6,7 @@
 - HTML
 - CSS
 - JAVASCRIPT
+- TYPESCRIPT
 - GIT
 
 
