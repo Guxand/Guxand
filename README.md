@@ -1,12 +1,13 @@
 # Olá, me chamo Gustavo Henrique Andres👋
 - Atualmente trabalhando como Gestor de Tráfego Pago🖥
-- Tenho 18 anos🙋🏼‍♂️
+- Tenho 19 anos🙋🏼‍♂️
 - Sou de Ivoti - RS 🚩
 - # O que estou estudando?📖
 - HTML
 - CSS
 - JAVASCRIPT
 - TYPESCRIPT
+- REACT 
 - GIT
 
 
