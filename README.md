@@ -8,8 +8,7 @@
 - JAVASCRIPT
 - TYPESCRIPT
 - REACT
-- BACKEND 
-- GIT
+- GITHUB
 
 
 - # Atualmente cursando pela Growdev o curso da Full Stack Desenvolvimento Web.
