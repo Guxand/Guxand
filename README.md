@@ -1,5 +1,5 @@
 # Olá, me chamo Gustavo Henrique Andres👋
-- Atualmente trabalhando como Gestor de Tráfego Pago🖥 e Auxiliar Administrativo.
+- Atualmente trabalhando como Gestor de Tráfego Pago e Auxiliar Administrativo.🖥
 - Tenho 19 anos🙋🏼‍♂️
 - Sou de Ivoti - RS 🚩
 - # O que estou estudando?📖
